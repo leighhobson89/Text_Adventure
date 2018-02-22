@@ -1,0 +1,14 @@
+SPACE TEXT ADVENTURE
+
+JIST
+
+Character deployed from orbiter, landing procedure fails, craft crashes, PARTLY BROKEN CAN BE REPAIRED, character recovers and then explores map to try and find a way to repair the ship and complete his primary mission, and then to escape the planet back to the orbiting ship.
+
+Crashes in a crater
+Finds objects in crater floor that point to a previous crash
+Trail leads character to another wreckage that was sent to the planet some years ago, that contains a few of the parts needed to repair the ship
+Along the way many objects and puzzles create ways for character to build other parts and aid his way to the other wreck site
+Eventually once returned to the ship, has to solve puzzles to build the craft again and launch it
+No battles, can't die, but many puzzles left behind to solve to learn about a race that once lived here but was made extinct (and ends up being humans before they came to earth)
+
+TEXT ADVENTURE to start with, to build flow and map

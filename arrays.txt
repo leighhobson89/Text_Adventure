@@ -1,0 +1,23 @@
+//Arrays
+
+//moved to location
+"the crash site", "a rocky area", "empty sand", "a cliff with a cave", "a dusty track", "an old river bed", "a waterfall formation", "a lake bed", "a dam", "an impassable crater wall", "a beach", "a cave passage", "a salt flat", "a high rocky area", "an accessible crater wall", "a cold old mine", "a mini crater", "a strange rock formation", "a smooth wooden surface covered in dust", "a disused ancient elevator shaft"
+
+//location codes
+"CS","RA","ES1","ES2","ES3","CWC","DT1","DT2","ORB1","ORB2","WF","L","D","CW1","CW2","CW3","CW4","CW5","CW6","CW7","CW8","B1","B2","CP","SF","HRA","ACW","OM","MC","SRF","EUP","EDN"
+
+//objects to carry/use
+"a broken landing leg","a big sturdy rock on top of the pile","a battery","some suncream","a pair of sunglasses","a shovel","a trowel","some broken binoculars","the wrecked lander module","an ancient animals claw","some flint","a black stalactyte","a metal nugget","a crack in the rock","a cable tie","a salt pile","a slat slab","a smoking hot meteorite","a fairly large plastic container","a pile of dust","a rubber gasket","a sharp sturdy metal rod stabbed into the crater wall","a vent in the rock","some petroleum vapor","an old contraption with a cog missing","a fan blade","a motor housing","a motor spindle","a motor powerpack","a metal plate attached to the cliff face by bolts","a sprocket","a wrench","a thick wooden branch","a tunnel entrance","an old dead yet strong vine","a smooth wooden trapdoor","a folded up ladder","a big pile of rocks","a glass pane","some sheathing"
+
+//object codes
+"BLL","ROK","BTT","SCR","SUN","SHO","TRO","BIN","WLM","CLW","FLI","BST","MTL","CRK","CTI","SLT","SSB","MTR","PLC","DUS","RGT","ROD","PGV","PET","OCT","FAN","MTA","MTB","MTC","RSB","SPR","TWB","TUN","ODV","SWF","LAD","ROX","GLP","SHE"
+
+//verb commands
+"GO","WALK","ENTER","LOOKAT","EXAMINE","TAKE","PICKUP","COLLECT","DROP","DISCARD","USE","PUSH","PULL","QUIT", "HELP"
+
+//adjectives
+"NORTH","EAST","SOUTH","WEST","WITH","ON"
+
+//parser responses
+"What will you do?","Invalid Command, enter "HELP" for a list of commands and objects available right now","You walk to the","You can see","You enter","You examine","You pick up","You collect","You push","You pull","You use","You drop","You quit!","HELP:","Commands:","Items:","the","with","and","nothing happens","manage to escape the planet and win the game!"
+

@@ -1,0 +1,3 @@
+SPACE TEXT ADVENTURE
+
+Character is deployed from orbiter to conduct a sampling mission on LH81 c, but the landing procedure fails, the craft crashes, broken beyond repair. After a while, the character recovers consciousness and then explores the map to try and find a way to escape the crater he finds himself in, solving puzzles and eventually finding a way to radio for help from the orbiter, and then escape the planet.
